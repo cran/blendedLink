@@ -1,0 +1,11 @@
+d9ca4ff17934151c2151f9c3b9975aa0 *DESCRIPTION
+22a59b2fd03ef87747c1919514efc8d1 *NAMESPACE
+775b4678efb9e11ebf39e4a86e4f2ed2 *R/blended.link.R
+46d1d5cd052ee959d9bb80dcbcf97624 *R/data.R
+8dd5227cc8eab579f15021d1f798b93e *R/pvalue.cutover.R
+4da4811e850386424739ab2f8790163f *data/loglogit.example.rdata
+4d57c1f52cb0dd16fe5aa4460b96980b *inst/CITATION
+ad5472e43b334d78bc469c0d62948533 *inst/blendedLink.pdf
+662ce0a72d2a88e7e39c6f81c2cc5e7e *man/blendedLink.Rd
+096e9669582a1f63fe0bb63edce31acf *man/loglogit.example.Rd
+3d42b78d18513f31eb17e5a3f85e9cfa *man/pvalue.cutover.Rd
