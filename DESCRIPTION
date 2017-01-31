@@ -1,8 +1,8 @@
 Package: blendedLink
 Type: Package
 Title: A New Link Function that Blends Two Specified Link Functions
-Version: 0.2
-Date: 2016-11-28
+Version: 1.0
+Date: 2017-01-31
 Author: Robert Clark
 Maintainer: "Robert Clark" <rclark@uow.edu.au>
 Imports: stats
@@ -11,6 +11,6 @@ License: GPL-2 | GPL-3
 LazyData: TRUE
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-11-28 05:25:11 UTC; rclark
+Packaged: 2017-01-30 22:58:14 UTC; rclark
 Repository: CRAN
-Date/Publication: 2016-11-28 08:21:06
+Date/Publication: 2017-01-31 06:51:05
